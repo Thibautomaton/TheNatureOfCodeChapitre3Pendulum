@@ -1,7 +1,7 @@
 
 The oscillation with one pendulum :
 
-![](PendulumSimple.gif)
+<img src="PendulumSimple.gif" width="250" height="250"/>
 
 
 The oscillation when second pendulum is added and origin is updated : 
